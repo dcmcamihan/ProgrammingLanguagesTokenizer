@@ -1,0 +1,49 @@
+.parent {
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 30px;
+}
+.sidebar {
+    -fx-background-color: #FFFFFF;
+}
+.sidebar_opt {
+    -fx-fill: #dadada;
+}
+.pane {
+    -fx-background-color: #FFFFFF;
+    -fx-border-color: #dadada;
+    -fx-background-radius: 0px 0px 30px 30px;
+    -fx-border-radius: 0px 0px 30px 30px;
+}
+.bg-color {
+    -fx-background-color: #62272d;
+}
+.font-color {
+    -fx-background-color: #62272d;
+}
+.plus_btn {
+    -fx-background-color: transparent;
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+    -fx-border-color: #C1C1C1;
+    -fx-border-style: dashed;
+}
+.colored_card1 {
+    -fx-background-color: linear-gradient(to right, #cf695c, #c2403f);
+    -fx-background-radius: 10px;
+}
+.colored_card2 {
+    -fx-background-color: #502126;
+    -fx-background-radius: 10px;
+}
+.colored_card3 {
+    -fx-background-color: linear-gradient(to right, #cf695c, #c2403f);
+    -fx-background-radius: 10px;
+}
+.shadow{
+    -fx-effect: dropShadow(three-pass-box,rgba(0,0,0,0.1), 10.0 , 0.0 , 0.0 ,10.0);
+}
+.circle {
+    -fx-background-color: #502126;
+    -fx-background-radius: 100px;
+
+}
